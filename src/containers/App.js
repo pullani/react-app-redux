@@ -36,14 +36,6 @@ class App extends Component {
   }
 
 
-  //Inbuilt function - Changed: redux wll take care of it through props.
-  //It is not : onSearchChange (event) { : It is a rule, for any fn you make, it should have the things 
-  //created by the class. So it has to be passed clearly. If it is a react function, no eed for arrow function.
-  //onSearchChange = (event) => {
-    //this.setState({  searchfield: event.target.value }) //React feature. We dont have to do this.state.searchfield = 
-    //console.log( event.target.value);
-  //}
-
 
   render() {
     const { searchField, onSearchChange, robots, isPending } = this.props;
@@ -53,7 +45,7 @@ class App extends Component {
       //console.log("helooo" , robot.name);
       return robot.name.toLowerCase().includes(searchField.toLowerCase());
     })
-    
+
     if (robots.length === 0){
       return <h1 className='f2 tc'>RoboFriends Loading...</h1>
     } 

@@ -1,6 +1,6 @@
 {
   "name": "robofriends",
-  "homepage": "https://pullani.github.io/react-app",
+  "homepage": "https://pullani.github.io/react-app-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
