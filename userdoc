@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Mahesh",
+        "username": "maes",
+        "email": "mahesh@email.in"
+    },
+    {
+        "id": 2,
+        "name": "Socrates",
+        "username": "socky",
+        "email": "socs@email.in"
+    },
+    {
+        "id": 3,
+        "name": "Tom Hanks",
+        "username": "hanx",
+        "email": "hanks@email.in"
+    },
+    {
+        "id": 4,
+        "name": "Shannon",
+        "username": "shan",
+        "email": "claude@email.in"
+    },
+    {
+        "id": 5,
+        "name": "Montana",
+        "username": "jyothi",
+        "email": "tony@email.in"
+    },
+    {
+        "id": 6,
+        "name": "Daimler",
+        "username": "gottlieb",
+        "email": "benz@email.in"
+    },
+    {
+        "id": 7,
+        "name": "Bruce",
+        "username": "batem",
+        "email": "wayne@email.in"
+    },
+    {
+        "id": 8,
+        "name": "Steve",
+        "username": "jobs",
+        "email": "steve@email.in"
+    },
+    {
+        "id": 9,
+        "name": "Keerikadan",
+        "username": "jose",
+        "email": "jose@email.in"
+    },
+    {
+        "id": 10,
+        "name": "Pavanai",
+        "username": "pavanai",
+        "email": "pavanai@email.in"
+    },
+    {
+        "id": 11,
+        "name": "Garudan",
+        "username": "vasu",
+        "email": "vasu@email.in"
+    },
+    {
+        "id": 12,
+        "name": "Clarise",
+        "username": "clax",
+        "email": "clax@email.in"
+    },
+    {
+        "id": 13,
+        "name": "Mannadiyar",
+        "username": "mann",
+        "email": "mann@email.in"
+    },
+    {
+        "id": 14,
+        "name": "Odiyan",
+        "username": "ody",
+        "email": "odiyan@email.in"
+    }
+]
