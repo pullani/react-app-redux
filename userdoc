@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Mahesh",
+        "username": "maes",
+        "email": "mahesh@email.in"
+    },
+    {
+        "id": 2,
+        "name": "Socrates",
+        "username": "socky",
+        "email": "socs@email.in"
+    },
+    {
+        "id": 3,
+        "name": "Paulo",
+        "username": "hanx",
+        "email": "coelho@email.in"
+    },
+    {
+        "id": 4,
+        "name": "Shannon",
+        "username": "shan",
+        "email": "claude@email.in"
+    },
+    {
+        "id": 5,
+        "name": "Tom",
+        "username": "hanks",
+        "email": "hanks@email.in"
+    },
+    {
+        "id": 6,
+        "name": "Pablo",
+        "username": "pablo",
+        "email": "neruda@email.in"
+    },
+    {
+        "id": 7,
+        "name": "Wayne",
+        "username": "bruz",
+        "email": "bruce@email.in"
+    },
+    {
+        "id": 8,
+        "name": "Steve",
+        "username": "jobs",
+        "email": "steve@email.in"
+    },
+    {
+        "id": 9,
+        "name": "Berners",
+        "username": "tim",
+        "email": "lee@email.in"
+    },
+    {
+        "id": 10,
+        "name": "Pavanai",
+        "username": "pavn",
+        "email": "pavanai@email.in"
+    },
+    {
+        "id": 11,
+        "name": "Rowling",
+        "username": "rowly",
+        "email": "jkr@email.in"
+    },
+    {
+        "id": 12,
+        "name": "Nicolas",
+        "username": "nick",
+        "email": "cage@email.in"
+    },
+    {
+        "id": 13,
+        "name": "Tony",
+        "username": "tonie",
+        "email": "montana@email.in"
+    },
+    {
+        "id": 14,
+        "name": "Travis",
+        "username": "traw",
+        "email": "bickle@email.in"
+    }
+]
